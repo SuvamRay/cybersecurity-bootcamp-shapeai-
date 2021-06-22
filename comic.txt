@@ -1,0 +1,1 @@
+-------------------------------------------------------------Weather Stats for - PURI  || 22 Jun 2021 | 04:39:36 PM-------------------------------------------------------------Current temperature is: 25.29 deg CCurrent weather desc  :moderate rainCurrent Humidity      :72%Current wind speed    :5.96kmph
